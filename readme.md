@@ -5,4 +5,4 @@
 
 # 畫面截圖
 
-![1](https://github.com/shrimp509/android-message-board/blob/master/screenshots/screenshot-1.jpg) ![2](https://github.com/shrimp509/android-message-board/blob/master/screenshots/screenshot-2.jpg)
+![1](https://github.com/shrimp509/android-message-board/blob/master/screenshots/screenshot-1.jpg =280x) ![2](https://github.com/shrimp509/android-message-board/blob/master/screenshots/screenshot-2.jpg =280x)
