@@ -1,4 +1,4 @@
-package com.example.messageboard_web
+package net.rongsonho.messageboard_web
 
 import android.annotation.SuppressLint
 import android.os.Bundle
