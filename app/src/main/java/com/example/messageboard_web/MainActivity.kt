@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
         val webview = findViewById<WebView>(R.id.main_webview)
         webview.settings.javaScriptEnabled = true
         webview.webViewClient = WebViewClient()
-        webview.loadUrl("http://yun-ru-tseng.gitlab.io/messageboard/#/messageBoard/")
+        webview.loadUrl("http://ru_message_board.nctu.me/#/messageBoard")
     }
 }
